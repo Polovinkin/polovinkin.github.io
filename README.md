@@ -1,2 +1,2 @@
 # polovinkin.github.io
-Vagabondity website
+Сайт для блога Vagabondity с руководствами по путешествиям
