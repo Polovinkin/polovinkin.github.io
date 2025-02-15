@@ -1,14 +1,13 @@
 title: Vagabondity
 description: Позитивные руководства по самостоятельному изучению мира от Дмитрия Половинкина
-author:
-  name: Дмитрий Половинкин
-  email: vagabondityblog.garlic252@passmail.net
+author: Дмитрий Половинкин
+email: vagabondityblog.garlic252@passmail.net
 # url: https://vagabondity.com
 theme: minima
 #remote_theme: jekyll/minima
 
 header_pages:
-  - about.md
+  - countries.md
 
 #plugins:
 #  - jekyll-remote-theme
