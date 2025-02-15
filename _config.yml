@@ -1,19 +1,11 @@
-title: XXX
-email: XXX.XXX@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  XXX
-baseurl: ""
-url: "https://polovinkin.github.io"
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      author: "XXX XXX"
+title: Vagabondity
+description: Позитивные руководства по самостоятельному изучению мира
+author: Дмитрий Половинкин
+email: vagabondityblog.garlic252@passmail.net
 remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
   skin: dark
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+header_pages:
+  - countries.md
