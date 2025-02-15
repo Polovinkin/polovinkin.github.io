@@ -1,0 +1,19 @@
+title: XXX
+email: XXX.XXX@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  XXX
+baseurl: ""
+url: "https://polovinkin.github.io"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "XXX XXX"
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
