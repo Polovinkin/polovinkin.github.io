@@ -4,8 +4,8 @@ author:
   name: Дмитрий Половинкин
   email: vagabondityblog.garlic252@passmail.net
 # url: https://vagabondity.com
-# theme: minima
-remote_theme: jekyll/minima
+theme: minima
+#remote_theme: jekyll/minima
 
 #header_pages:
 #  - about.md
