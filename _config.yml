@@ -7,8 +7,8 @@ author:
 theme: minima
 #remote_theme: jekyll/minima
 
-#header_pages:
-#  - about.md
+header_pages:
+  - about.md
 
 #plugins:
 #  - jekyll-remote-theme
