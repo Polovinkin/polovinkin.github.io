@@ -15,5 +15,5 @@ header_pages:
 #  - jekyll-seo-tag
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
-#minima:
-#  skin: solarized-light
+minima:
+  skin: solarized-light
