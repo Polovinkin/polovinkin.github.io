@@ -3,15 +3,15 @@ description: Позитивные руководства по самостоят
 author:
   name: Дмитрий Половинкин
   email: vagabondityblog.garlic252@passmail.net
-url: https://vagabondity.com
+# url: https://vagabondity.com
 # theme: minima
 remote_theme: jekyll/minima
 
-header_pages:
-  - about.md
+#header_pages:
+#  - about.md
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 #  - jekyll-feed
 #  - jekyll-seo-tag
 
