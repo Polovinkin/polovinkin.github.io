@@ -10,9 +10,9 @@ remote_theme: jekyll/minima
 header_pages:
   - about.md
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
