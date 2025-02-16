@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Про хостелы и как находить хорошие"
 date: 2025-02-15
 ---
