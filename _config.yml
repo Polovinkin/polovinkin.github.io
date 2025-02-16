@@ -6,5 +6,5 @@ url: "https://vagabondity.com"
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-#minima:
-#  skin: solarized
+minima:
+  skin: solarized
