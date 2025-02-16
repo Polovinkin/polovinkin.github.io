@@ -11,7 +11,9 @@ plugins:
 minima:
   skin: solarized-light
   social_links:
-    - { platform: youtube,  user_url: "https://www.youtube.com/@vagabondingfrog" }
+    - title: Vagabonding Frog Cty Walks
+      icon: youtube
+      url: "https://www.youtube.com/@vagabondingfrog"
 
 header_pages:
   - posts.md
