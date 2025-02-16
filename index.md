@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Vagabondity - Руководства по самостоятельным путешествиям по миру
 ---
 
