@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All Posts
+title: Руководства
 permalink: /posts/
 ---
 
-Page which will list all posts of the blog
+Страница со всеми руководствами

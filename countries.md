@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Countries Visited
+title: Посещенные Страны
 permalink: /countries/
 ---
 
-Page with the list of the countries I've visited
+Список посещенных мною стран
