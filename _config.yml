@@ -16,5 +16,6 @@ minima:
       url: "https://www.youtube.com/@vagabondingfrog"
 
 header_pages:
-  - posts.md
+  - articles.md
   - countries.md
+  - about.md

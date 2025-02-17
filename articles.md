@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Руководства
-permalink: /posts/
+permalink: /articles/
 ---
 
 Страница со всеми руководствами
