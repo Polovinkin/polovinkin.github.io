@@ -3,3 +3,4 @@
 
 Полезная инфа для разработки:
 - Добавление ссылок и картинок: https://srisi.github.io/github_pages_tutorial/links.html
+- Профиль в Disqus: https://disqus.com/by/vagabondity/
