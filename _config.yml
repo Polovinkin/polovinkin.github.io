@@ -2,7 +2,7 @@ title: Vagabondity
 description: Позитивные руководства по самостоятельным путешествиям
 author: Дмитрий Половинкин
 email: vagabondityblog.garlic252@passmail.net
-url: "https://vagabondity.com"
+url: https://vagabondity.com
 
 #theme config
 remote_theme: jekyll/minima
@@ -21,3 +21,6 @@ header_pages:
   - articles.md
   - countries.md
   - about.md
+
+disqus:
+  shortname: vagabondity
