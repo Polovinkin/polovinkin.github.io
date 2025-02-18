@@ -6,3 +6,4 @@
 - Добавление ссылок и картинок: https://srisi.github.io/github_pages_tutorial/links.html
 - Профиль в Disqus: https://disqus.com/by/vagabondity/
 - Гайды по фичам в Jekyll: https://mademistakes.com/mastering-jekyll/
+- Синтаксис Markdown - https://www.markdownguide.org/basic-syntax/
