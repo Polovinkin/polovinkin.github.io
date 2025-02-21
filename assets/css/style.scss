@@ -8,9 +8,14 @@
 
 // Add logo to masthead
 a.site-title::before {
-	content: url("/favicon.png");
-	display: inline-block;
-	position: relative;
-	width: 32px;
-	top: 32px;
+    background-image: url(/favicon.png);
+    content: "";
+    display: inline-block;
+    position: relative;
+    width: 32px;
+    top: 7px;
+    height: 32px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 8px;
 }
