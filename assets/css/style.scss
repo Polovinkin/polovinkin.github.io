@@ -7,7 +7,7 @@
   "minima/initialize";
 
 // Add logo to masthead
-a.site-title::before {
+.site-title::before {
     background-image: url(/favicon.png);
     content: "";
     display: inline-block;
