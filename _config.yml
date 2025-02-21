@@ -16,6 +16,9 @@ minima:
     - title: Vagabonding Frog City Walks
       icon: youtube
       url: "https://www.youtube.com/@vagabondingfrog"
+    - title: Vagabonding Frog - TG Channel
+      icon: telegram
+      url: "https://t.me/vagabondingfrog"
 
 header_pages:
   - countries.md
