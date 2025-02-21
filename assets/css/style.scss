@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-// Add logo to masthead
+// Add logo to the title
 .site-title::before {
     background-image: url(/favicon.png);
     content: "";
