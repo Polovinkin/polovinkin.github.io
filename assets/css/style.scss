@@ -92,23 +92,25 @@ img {
   border-radius: 10px;
 }
 
-// bullet point between the links in the header for desktop
+// adding bullet point between the links in the header for desktop specifically
+// and hiding the link there
 @media screen and (min-width: 600px) {
+  // removing big margin which is there by default
   .site-nav .page-link:not(:last-child) {
     margin-right: 0;
   }
-
+  // bullet point for all elements but the last
   .site-nav .page-link::after {
-    content: " \2022 "; /* Unicode bullet point */
-    color: #b68603; /* Adjust color as needed */
-    margin: 6px; /* Adjust spacing as needed */
-    display: inline-block;
-    text-decoration: none; /* Remove underline */
-    pointer-events: none; /* Make it non-clickable */
+    content: " \2022 "; // Unicode bullet point
+    color: #b68603;
+    margin: 6px;
+    display: inline-block; // allows the text-decoration to work
+    text-decoration: none; // Remove underline
+    pointer-events: none; // Make it non-clickable - but not rly working for now
   }
-
+  // Remove this stuff the last link 
   .site-nav .page-link:last-child::after {
-    content: ""; /* Remove from the last link */
+    content: "";
     margin: 0;
   }
 }
