@@ -105,11 +105,11 @@ img {
     text-decoration: none; /* Remove underline */
     pointer-events: none; /* Make it non-clickable */
   }
-}
 
-
-.site-nav .page-link:last-child::after {
-  content: ""; /* Remove from the last link */
+  .site-nav .page-link:last-child::after {
+    content: ""; /* Remove from the last link */
+    margin: 0;
+  }
 }
 
 // ----------------------------
