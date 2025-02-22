@@ -92,4 +92,15 @@ img {
   border-radius: 10px;
 }
 
+
+.site-nav .page-link::after {
+  content: " \2022 "; /* Unicode bullet point */
+  color: #b68603; /* Adjust color as needed */
+  margin: 0 5px; /* Adjust spacing as needed */
+}
+
+.site-nav .page-link:last-child::after {
+  content: ""; /* Remove from the last link */
+}
+
 // ----------------------------
