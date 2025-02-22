@@ -7,3 +7,4 @@
 - Профиль в Disqus: https://disqus.com/by/vagabondity/
 - Гайды по фичам в Jekyll: https://mademistakes.com/mastering-jekyll/
 - Синтаксис Markdown - https://www.markdownguide.org/basic-syntax/
+- Гайд по Kramdown - https://kramdown.gettalong.org/quickref.html
