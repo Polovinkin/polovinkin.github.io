@@ -8,6 +8,8 @@ permalink: /countries/
 Общее кол-во: 71 страна</h3>
 </div>
 
+![My Visited Countries](pictures/myVisitedPlaces.webp)
+
 ### Европа
 
 🇷🇺 Абхазия 🇦🇱 Албания 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Англия 🇦🇩 Андорра 🇦🇹 Австрия 🇧🇾 Беларусь 🇧🇪 Бельгия  
