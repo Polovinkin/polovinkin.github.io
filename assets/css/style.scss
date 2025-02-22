@@ -36,6 +36,11 @@
   color: #b68604;
 }
 
+// smaller padding on the top and bottom of content
+.page-content {
+  padding: 15px 0px;
+}
+
 // less space in the bottom
 .site-footer {
   padding-bottom: 0;
@@ -62,4 +67,9 @@ img {
 }
 .grey {
   color: #e3b334;
+}
+
+// 20px instead of 30px margin between posts
+.post-list>li {
+  margin-bottom: 20px;
 }
