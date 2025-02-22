@@ -94,16 +94,16 @@ img {
 
 // bullet point between the links in the header for desktop
 @media screen and (min-width: 600px) {
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 7px;
+  }
+
   .site-nav .page-link::after {
     content: " \2022 "; /* Unicode bullet point */
     color: #b68603; /* Adjust color as needed */
     margin: 0 5px; /* Adjust spacing as needed */
     text-decoration: none; /* Remove underline */
     pointer-events: none; /* Make it non-clickable */
-  }
-
-  .site-nav .page-link:not(:last-child)::after {
-    margin-right: 2px;
   }
 }
 
