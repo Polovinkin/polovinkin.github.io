@@ -1,11 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+// IMPORTING MINIMA
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+
+// CUSTOM STYLES
+
+//  ----------HEADER----------
 // Add properly sized logo to the title
 .site-title::before {
     background-image: url(/favicon.png);
@@ -24,31 +28,13 @@
 .site-header { 
 	border-top: 5px solid #e3b334;
 }
+// ----------------------------
 
-.post-title {
-  text-align: center;
-  color: #b68604;
-}
 
-// centering the title on index
-.page-heading {
-  text-align: center;
-  color: #b68604;
-}
-
-// smaller padding on the top and bottom of content
-.page-content {
-  padding: 15px 0px;
-}
-
+//  ----------FOOTER----------
 // less space in the bottom
 .site-footer {
   padding-bottom: 0;
-}
-
-// adding rounded corners to the images
-img {
-  border-radius: 10px;
 }
 
 // moving social media icons to the left
@@ -68,8 +54,41 @@ img {
 .grey {
   color: #e3b334;
 }
+// ----------------------------
 
-// 20px instead of 30px margin between posts
+
+//  ---------MAIN PAGE---------
+
+// centering the title on main page
+.page-heading {
+  text-align: center;
+  color: #b68604;
+}
+
+// 20px margin instead of 30px between posts
 .post-list>li {
   margin-bottom: 20px;
 }
+
+// smaller padding on the top and bottom of content on main page
+.page-content {
+  padding: 15px 0px;
+}
+
+// ----------------------------
+
+
+//  -----------MISC-----------
+
+// colored and centered post titles
+.post-title {
+  text-align: center;
+  color: #b68604;
+}
+
+// adding rounded corners to the images
+img {
+  border-radius: 10px;
+}
+
+// ----------------------------
