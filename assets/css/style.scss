@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-// Add logo to the title
+// Add properly sized logo to the title
 .site-title::before {
     background-image: url(/favicon.png);
     content: "";
@@ -20,10 +20,17 @@
     margin-right: 8px;
 }
 
+// color of the stripe on top of the page
 .site-header { 
 	border-top: 5px solid #e3b334;
 }
 
+// adding rounded corners to the images
 img {
   border-radius: 10px;
+}
+
+// moving social media icons to the left
+.social-media-list {
+  margin: 0;
 }
