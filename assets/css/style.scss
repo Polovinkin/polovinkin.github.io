@@ -25,6 +25,11 @@
 	border-top: 5px solid #e3b334;
 }
 
+// less space in the bottom
+.site-footer {
+  padding-bottom: 0;
+}
+
 // adding rounded corners to the images
 img {
   border-radius: 10px;
@@ -33,4 +38,12 @@ img {
 // moving social media icons to the left
 .social-media-list {
   margin: 0;
+}
+
+// bigger sized social icons and color
+.fa-lg {
+  font-size: 1.5em;
+}
+.grey {
+  color: #e3b334;
 }
