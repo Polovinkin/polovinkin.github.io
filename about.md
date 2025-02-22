@@ -34,3 +34,7 @@ permalink: /about/
 - Опытным путешественникам кто уже повидали кучу всего - верю, что вы тоже сможете узнать чего нибудь новенькое!
 
 > Путешествуйте, друзья. Оно того стоит!
+
+---
+Email для связи с автором по любым вопросам: <a href="mailto:vagabondityblog.garlic252@passmail.net">vagabondityblog.garlic252@passmail.net</a>  
+Мой Telegram: <a href="https://t.me/polovinkin">@Polovinkin</a> 
