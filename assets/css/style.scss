@@ -102,6 +102,7 @@ img {
     content: " \2022 "; /* Unicode bullet point */
     color: #b68603; /* Adjust color as needed */
     margin: 0 5px; /* Adjust spacing as needed */
+    padding-left: 4px; /* Adjust spacing as needed */
     text-decoration: none; /* Remove underline */
     pointer-events: none; /* Make it non-clickable */
   }
