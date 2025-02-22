@@ -9,6 +9,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-feed
 minima:
   skin: solarized-light
   social_links:
