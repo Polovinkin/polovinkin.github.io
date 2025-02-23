@@ -11,6 +11,8 @@ permalink: /countries/
 
 ![My Visited Countries](pictures/myVisitedPlaces.webp)
 
+---
+
 <div align="center">
 <h3>Европа</h3>
 </div>
