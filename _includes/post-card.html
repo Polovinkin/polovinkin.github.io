@@ -1,0 +1,15 @@
+<div class="post-card">
+    <a href="{{ post.url | relative_url }}">
+      {% if post.image %}
+      <div class="post-card-image">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      </div>
+      {% endif %}
+      <div class="post-card-content">
+        <h2 class="post-card-title">{{ post.title }}</h2>
+        {% if post.description %}
+        <p class="post-card-excerpt">{{ post.description }}</p>
+        {% endif %}
+      </div>
+    </a>
+</div>

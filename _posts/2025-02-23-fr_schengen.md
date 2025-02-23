@@ -2,6 +2,7 @@
 layout: post
 title: "Как получить Шенген от Франции в 2025 году?"
 description: "Руководство по получению Шенгенской визы от Франции со всеми шагами и деталями"
+image: ../pictures/fr-schengen/paris_first_view.webp
 permalink: /posts/:title
 ---
 
