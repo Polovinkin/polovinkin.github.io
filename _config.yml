@@ -13,12 +13,12 @@ plugins:
 minima:
   skin: solarized-light
   social_links:
-    - title: Vagabonding Frog City Walks
+    - title: Vagabondity | City Walks And Atmosphere
       icon: youtube
-      url: "https://www.youtube.com/@vagabondingfrog"
-    - title: Vagabonding Frog - TG Channel
+      url: "https://www.youtube.com/@vagabondity"
+    - title: Vagabondity TG Channel
       icon: telegram
-      url: "https://t.me/vagabondingfrog"
+      url: "https://t.me/vagabondity"
 
 header_pages:
   - countries.md
