@@ -39,8 +39,8 @@ permalink: /about/
 
 <div align="center">
 
-<b>YouTube канал с прогулками по городам мира: <a href="https://www.youtube.com/@vagabondity">Vagabondity | Городские Прогулки и Атмосфера</a></b>  
-<b>Email для связи с автором по любым вопросам: <a href="mailto:vagabondityblog.garlic252@passmail.net">vagabondityblog.garlic252@passmail.net</a></b>  
+<b>YouTube канал с прогулками по городам мира: <a href="https://www.youtube.com/@vagabondity">Vagabondity | Городские Прогулки и Атмосфера</a></b><br>
+<b>Email для связи с автором по любым вопросам: <a href="mailto:vagabondityblog.garlic252@passmail.net">vagabondityblog.garlic252@passmail.net</a></b><br>
 <b>Мой Telegram: <a href="https://t.me/polovinkin">@Polovinkin</a></b>
 
 </div>
