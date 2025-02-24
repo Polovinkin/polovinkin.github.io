@@ -22,8 +22,8 @@ minima:
 google_analytics: G-09BY2NKDYB
 
 header_pages:
-  - countries.md
-  - about.md
+  - _pages/countries.md
+  - _pages/about.md
 
 disqus:
   shortname: vagabondity

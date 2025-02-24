@@ -9,7 +9,7 @@ permalink: /countries/
 Общее кол-во: 71 страна</h3>
 </div>
 
-![My Visited Countries](pictures/myVisitedPlaces.webp)
+![My Visited Countries](/pictures/myVisitedPlaces.webp)
 
 ---
 
