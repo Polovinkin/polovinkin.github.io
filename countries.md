@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Посещенные Страны
-permalink: /:title
+permalink: /countries/
 ---
 
 <div align="center">

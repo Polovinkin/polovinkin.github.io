@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Все мои руководства
-permalink: /posts/
+permalink: /posts_test/
 ---
 
 <div class="post-grid">
