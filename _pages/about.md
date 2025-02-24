@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Об Авторе и Сайте
-permalink: /about/
+permalink: :title
 ---
 
 ![Cows in German Apls](/pictures/german_cows.webp)
