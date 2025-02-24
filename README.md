@@ -9,3 +9,4 @@
 - Синтаксис Markdown - https://www.markdownguide.org/basic-syntax/
 - Гайд по Kramdown - https://kramdown.gettalong.org/quickref.html
 - Репа по плагину для SEO - https://github.com/jekyll/jekyll-seo-tag/tree/master
+- Панель Google Analytics - https://analytics.google.com/analytics/web/?authuser=2 
