@@ -29,13 +29,6 @@
 	border-top: 5px solid #e3b334;
 }
 
-// coloring of the border around the menu for mobile devices
-@media screen and (max-width: 600px) {
-  .site-nav {
-    border: 1px solid #e2b333
-  }
-}
-
 // ----------------------------
 
 
@@ -73,10 +66,14 @@
   color: #b68604;
 }
 
-// smaller heading for mobile devices
+// FOR MOBILE - smaller heading and colored menu border
 @media screen and (max-width: 600px) {
   .page-heading {
     font-size: 1.5rem;
+  }
+
+  .site-nav {
+    border: 1px solid #e2b333
   }
 }
 
