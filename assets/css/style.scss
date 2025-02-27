@@ -28,6 +28,11 @@
 .site-header { 
 	border-top: 5px solid #e3b334;
 }
+
+// coloring of the border around the menu
+.site-nav {
+  border: 1px solid #e2b333
+}
 // ----------------------------
 
 
@@ -63,6 +68,13 @@
 .page-heading {
   text-align: center;
   color: #b68604;
+}
+
+// smaller heading for mobile devices
+@media screen and (max-width: 600px) {
+  .page-heading {
+    font-size: 1.5rem;
+  }
 }
 
 // 20px margin instead of 30px between posts
