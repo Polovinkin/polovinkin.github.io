@@ -29,10 +29,13 @@
 	border-top: 5px solid #e3b334;
 }
 
-// coloring of the border around the menu
-.site-nav {
-  border: 1px solid #e2b333
+// coloring of the border around the menu for mobile devices
+@media screen and (max-width: 600px) {
+  .site-nav {
+    border: 1px solid #e2b333
+  }
 }
+
 // ----------------------------
 
 
