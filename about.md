@@ -2,7 +2,6 @@
 layout: page
 title: Об Авторе и Сайте
 permalink: /about/
-toc: true
 ---
 
 <div align="center">
