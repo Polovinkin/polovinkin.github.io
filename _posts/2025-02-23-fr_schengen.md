@@ -6,6 +6,8 @@ image: ../pictures/fr-schengen/main_fr_schengen.webp
 permalink: /posts/:title
 ---
 
+**Навигация**
+* This will become a table of contents (this text will be scrapped).
 {:toc}
 
 > Важная пометка: гайд по факту о том, как я успешно получал французский Шенген в начале и конце 2023его года: сначала на полгода, а потом на год. 
