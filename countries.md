@@ -91,7 +91,17 @@ permalink: /countries/
 
 ---
 
-![My Visited Countries](/pictures/myVisitedPlaces.webp)
+<div align="center">
+<h2>Карта +- всех посещенных мест</h2>
+</div>
+
+<a href="https://beeneverywhere.net/user/polovinkin">
+  <img src="https://beeneverywhere.net/staticmap/polovinkin.png" alt="My Beenanywhere Map">
+</a>
+
+<div align="center">
+Кликните для интерактива!
+</div>
 
 <!-- Генератор карты посещенных стран-->
 <!-- https://visitedplaces.com/world/?map=world&projection=geoNaturalEarth1&theme=light-yellow&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=0&autozoom=none&autostep=0&home=RU&places=~AL_AD_AM_AT_BY_BE_BA_BG_HR_CY_CZ_DK_EE_FI_FR_GE_DE_GR_HU_IT_KZ_LV_LI_LT_LU_MT_ME_NL_MK_NO_PL_PT_RO_SM_RS_SK_SI_ES_SE_CH_TR_UA_GB_VA_BS_KY_HN_MX_US_EG_BH_CN_HK_IL_KG_LA_MO_MY_OM_PS_QA_SA_SG_KR_TH_AE_UZ_VN_RU_ID -->
