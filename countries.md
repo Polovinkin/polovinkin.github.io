@@ -13,7 +13,7 @@ permalink: /countries/
 ---
 
 <div align="center">
-<h2>Карта +- всех посещенных мест</h2>
+<h2>Карта</h2>
 </div>
 
 <a href="https://beeneverywhere.net/user/polovinkin">
