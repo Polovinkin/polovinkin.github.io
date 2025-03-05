@@ -21,7 +21,7 @@ permalink: /countries/
 </a>
 
 <div align="center">
-<i>Кликните для интерактива!<i>
+<i>Кликните для интерактива!</i>
 </div>
 
 ---
