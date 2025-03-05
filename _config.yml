@@ -20,12 +20,11 @@ minima:
     - title: Vagabondity TG Channel
       icon: telegram
       url: "https://t.me/vagabondity"
+  nav_pages:
+    - countries.md
+    - about.md
 
 google_analytics: G-09BY2NKDYB
-
-header_pages:
-  - countries.md
-  - about.md
 
 disqus:
   shortname: vagabondity
