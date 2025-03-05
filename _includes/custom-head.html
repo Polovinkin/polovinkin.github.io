@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 </style>
 
-{% if page.url == "/" %}
+
 <!-- Метатеги только для главной страницы -->
+{% if page.url == "/" %}
 <title>Vagabondity | Позитивные руководства по путешествиям</title>
 <meta name="title" content="Vagabondity | Позитивные руководства по путешествиям" />
 <meta name="description" content="Авторские путеводители по самостоятельному изучению мира основанные на опыте. Создавайте свои собственные приключения!" />
@@ -22,7 +23,8 @@
 <meta property="twitter:description" content="Авторские путеводители по самостоятельному изучению мира основанные на опыте. Создавайте свои собственные приключения!" />
 <meta property="twitter:image" content="https://vagabondity.com/pictures/vagabondity_meta_pic.webp" />
 {% else %}
-<!-- Метатеги для всех остальных страниц, только для изображений -->
+
+<!-- Метатеги для всех остальных страниц, только фотки -->
 <meta name="title" content="Vagabondity | Позитивные руководства по путешествиям" />
 <meta property="og:image" content="https://vagabondity.com/pictures/vagabondity_meta_pic.webp" />
 <meta property="twitter:image" content="https://vagabondity.com/pictures/vagabondity_meta_pic.webp" />
