@@ -27,7 +27,7 @@ permalink: /countries/
 ---
 
 <div align="center">
-Названия с ссылками - ведут на мою видео прогулку по этому месту в YT канале <a href="https://t.me/vagabondity">Vagabondity</a> :)
+Названия с ссылками - ведут на мою видео прогулку по этому месту в YT канале <a href="https://www.youtube.com/@vagabondity">Vagabondity</a> :)
 </div>
 
 <div align="center">
