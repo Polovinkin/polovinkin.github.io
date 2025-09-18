@@ -6,8 +6,8 @@ permalink: /countries/
 
 <div align="center">
 <h4>Посещенные автором страны мира и основные города<br>
-Кол-во: 73 страны (67 стран ООН)</h4>
-<h5><b>Где сейчас: 🇷🇺 Санкт-Петербург, Россия</b></h5>
+Кол-во: 74 страны (67 стран ООН)</h4>
+<h5><b>Где сейчас: 🇷🇺 Кавказ, Россия</b></h5>
 </div>
 
 ---
@@ -54,7 +54,7 @@ permalink: /countries/
 | 🇫🇷 **Франция** - [Париж](https://youtube.com/shorts/0N0yPlB6Ks4), Марсель, Метц                         | 🇭🇷 **Хорватия** - [Загреб](https://youtu.be/JQu-jSFsrno), [Сплит](https://youtube.com/shorts/8Jbu0MxbJvw), [о.Брач](https://youtube.com/shorts/-Xnd8QeKkVk)                      |
 | 🇲🇪 **Черногория** - Подгорица и все крупные города на набережной ([Котор](https://youtube.com/shorts/yrbAH0lrmn4)) | 🇨🇿 **Чехия** - [Брно](https://youtube.com/shorts/S5rM4NCfEXQ)                                        |
 | 🇨🇭 **Швейцария** - [Цюрих](https://youtube.com/shorts/J-6JnidY1Uo), [Базель](https://youtube.com/shorts/kEipYrPXiUU), [Вильдхауз](https://youtube.com/shorts/P2QghzEgaL4)                   | 🇸🇪 **Швеция** - Стокгольм                                     |
-| 🇪🇪 **Эстония** - Таллинн                                      |                                                               |
+| 🇪🇪 **Эстония** - Таллинн                                      |     |
 
 ---
 
@@ -75,6 +75,7 @@ permalink: /countries/
 
 | **Абхазия**                      | 🇦🇲 **Армения** - Ереван                                           |
 | 🇬🇪 **Грузия** - Тбилиси, [Кутаиси](https://youtu.be/oHz_mHug3Mk) | 🇹🇷 **Турция** - [Стамбул](https://youtu.be/tujLDNFFRnU), Анталья, Анкара, Аланья, Измир, [Манавгат](https://youtu.be/zHmOR1SLePU) |
+| **Южная Осетия** - [Цхинвал](https://youtu.be/Ae9mLJuxVVA) | |
 
 ---
 
