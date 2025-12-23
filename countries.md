@@ -6,8 +6,8 @@ permalink: /countries/
 
 <div align="center">
 <h4>Посещенные автором страны мира и основные города<br>
-Кол-во: 74 страны (67 стран ООН)</h4>
-<h5><b>Где сейчас: 🇹🇷 Каш + Фетхие, Турция</b></h5>
+Кол-во: 77 страны (68 стран ООН)</h4>
+<h5><b>Где сейчас: 🇨🇾 Кипр </b></h5>
 </div>
 
 ---
@@ -40,15 +40,15 @@ permalink: /countries/
 | 🇧🇦 **Босния и Герцеговина** - [Мостар](https://youtube.com/shorts/wTr10DqOwZQ) | 🇧🇬 **Болгария** - [Несебыр](https://youtube.com/shorts/QmYG3jholXo), Бургас, [Пловдив](https://www.youtube.com/watch?v=14jle52nEuE), [София](https://youtube.com/shorts/8iPZHn4L6sI) |
 | 🇻🇦 **Ватикан** | 🇭🇺 **Венгрия** - [Будапешт](https://youtube.com/shorts/wYnAAU0npFo) |
 | 🇩🇪 **Германия** - Кельн, Дортмунд, Дюссельдорф | 🇬🇷 **Греция** - [Афины](https://youtu.be/5GgUWcIkKtc), [Метеора](https://youtu.be/zb--ywwZnuI), [Дельфы](https://youtu.be/HWO7YTzJiNA), [Ламия](https://youtu.be/hxfSseqhWVw), [Пирей](https://youtu.be/AVlpzietJfs), [Ираклеон](https://youtu.be/5XqunWlrQ68), [Ретимно](https://youtu.be/37WpmBxm0zs), Санторини |
-| 🇨🇾 **Кипр** - Лиммасол | 🇩🇰 **Дания** - Копенгаген |
+| 🇨🇾 **Кипр** - Лиммасол, Ларнака, Никосия | 🇩🇰 **Дания** - Копенгаген |
 | 🇪🇸 **Испания** - [Барселона](https://youtu.be/1wQV9eonUvY), Валенсия, Малага | 🇮🇹 **Италия** - [Рим](https://youtube.com/shorts/HM0kfxT6j-8), [Венеция](https://youtu.be/IRNXOziZiqg), Флоренция, [Бари](https://youtube.com/shorts/TWOrMh9CjNE), [Римини](https://youtu.be/6FrHjXIJ_cg), [Болонья](https://youtu.be/Ba-WHkA2kcM), Кортина-д'Ампеццо, Триест, [Палермо](https://youtube.com/shorts/MvPM6nOtbH0), [Катания](https://youtu.be/4cjn8GZuwpY), [Сиракузы](https://youtu.be/biE2EQFm7II), [Трапани](https://youtube.com/shorts/Lt7qA2tFrng) |
 | 🇱🇻 **Латвия** - [Рига](https://youtube.com/shorts/zW9jMVH3c0A) | 🇱🇹 **Литва** - Вильнюс, [Каунас](https://youtube.com/shorts/WzxZahwClIU) |
 | 🇱🇮 **Лихтенштейн** - [Вадуц](https://youtube.com/shorts/PuOqH-0kr1U) | 🇱🇺 **[Люксембург](https://youtube.com/shorts/UGAugMb0FeQ)** |
 | 🇲🇹 **[Мальта](https://youtube.com/shorts/OZs-uAWvM4E)** - Валетта, Слиема, Гзира, Рабат | 🇳🇱 **Нидерланды** - [Амстердам](https://youtube.com/shorts/qTaPMs4AEiY), [Гаага](https://youtube.com/shorts/M-NI8g6Q6R0), [Дельфт](https://youtube.com/shorts/WwYQcTPd99c) |
 | 🇳🇴 **Норвегия** - Осло, Лильхаммер, Тронхейм, Гейрангер  | 🇵🇱 **Польша**         |
 | 🇵🇹 **Португалия** - Лиссабон | 🇷🇺 **Россия** - *100+ городов от Владивостока До Сортавалы* ([Южная и Западная РФ](https://youtube.com/playlist?list=PLaDYMLU12jjsV2jptfS9d8StSwvo7-1EA&si=qIfOqWHTxMZyFtt0), [Восточная и Центральная РФ](https://www.youtube.com/playlist?list=PLaDYMLU12jjt9QoxjpR5i5RjAJs4--DhI)) |
-| 🇷🇴 **Румыния** - [Бухарест](https://www.youtube.com/shorts/ZydeqAombNo), [Брашов](https://youtube.com/shorts/WADn7XdxNSI)                             | 🇸🇲 **[Сан-Марино](https://youtu.be/2kXkV1BIBn0)** |
-| 🇲🇰 **Северная Македония** - [Охрид](https://youtube.com/shorts/EMKP6nhfji0), Скопье | 🇷🇸 **Сербия** - [Белград](https://youtube.com/shorts/nvR9C1DUjtA), [Нови Сад](https://youtube.com/shorts/Vv8uXzVJ-F0) |
+| 🇷🇴 **Румыния** - [Бухарест](https://www.youtube.com/shorts/ZydeqAombNo), [Брашов](https://youtube.com/shorts/WADn7XdxNSI)  | 🇸🇲 **[Сан-Марино](https://youtu.be/2kXkV1BIBn0)** |
+| 🇲🇰 **Северная Македония** - [Охрид](https://youtube.com/shorts/EMKP6nhfji0), Скопье | 🇷🇸 **Сербия** - [Белград](https://youtube.com/shorts/nvR9C1DUjtA), [Нови Сад](https://youtube.com/shorts/Vv8uXzVJ-F0) | **Северный Кипр** - Северная Никосия |
 | 🇸🇰 **Словакия** - [Братислава](https://youtube.com/shorts/HYRxvJQhsHo)   | 🇸🇮 **Словения** - [Любляна](https://youtu.be/SrxGi_frkRM), Марибор |
 | 🇺🇦 **Украина** - Киев  | 🇫🇮 **Финляндия** - Хельсинки, Лаппеэнранта, Савонлинна, Иматра |
 | 🇫🇷 **Франция** - [Париж](https://youtube.com/shorts/0N0yPlB6Ks4), Марсель, [Метц](https://youtube.com/shorts/nULWW8RZ694) | 🇭🇷 **Хорватия** - [Загреб](https://youtu.be/JQu-jSFsrno), [Сплит](https://youtube.com/shorts/8Jbu0MxbJvw), [о.Брач](https://youtube.com/shorts/-Xnd8QeKkVk)  |
