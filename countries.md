@@ -39,23 +39,23 @@ permalink: /countries/
 | 🇧🇾 **Беларусь** - Минск | 🇧🇪 **Бельгия** - Аубердж |
 | 🇧🇦 **Босния и Герцеговина** - [Мостар](https://youtube.com/shorts/wTr10DqOwZQ) | 🇧🇬 **Болгария** - [Несебыр](https://youtube.com/shorts/QmYG3jholXo), Бургас, [Пловдив](https://www.youtube.com/watch?v=14jle52nEuE), [София](https://youtube.com/shorts/8iPZHn4L6sI) |
 | 🇻🇦 **Ватикан** | 🇭🇺 **Венгрия** - [Будапешт](https://youtube.com/shorts/wYnAAU0npFo) |
-| 🇩🇪 **Германия** - Кельн, Дортмунд, Дюссельдорф | 🇬🇷 **Греция** - [Афины](https://youtu.be/5GgUWcIkKtc), [Метеора](https://youtu.be/zb--ywwZnuI), [Дельфы](https://youtu.be/HWO7YTzJiNA), [Ламия](https://youtu.be/hxfSseqhWVw), [Пирей](https://youtu.be/AVlpzietJfs), [Ираклеон](https://youtu.be/5XqunWlrQ68), [Ретимно](https://youtu.be/37WpmBxm0zs), Санторини |
-| 🇨🇾 **Кипр** - Лимасол, Ларнака, Никосия | 🇩🇰 **Дания** - Копенгаген |
+| 🇩🇪 **Германия** - Кельн, Дортмунд, Дюссельдорф | 🇬🇷 **Греция** - [Афины](https://youtu.be/5GgUWcIkKtc), [Метеора](https://youtu.be/zb--ywwZnuI), [Дельфы](https://youtu.be/HWO7YTzJiNA), [Ламия](https://youtu.be/hxfSseqhWVw), [Пирей](https://youtu.be/AVlpzietJfs), [Ираклеон](https://youtu.be/5XqunWlrQ68), [Ретимно](https://youtu.be/37WpmBxm0zs), Санторини, [Наксос](https://youtu.be/UNoKK0JBkZw) |
+| 🇨🇾 **Кипр** - Лимасол, [Ларнака](https://youtu.be/HNwu_tmzAmQ), Никосия | 🇩🇰 **Дания** - Копенгаген |
 | 🇪🇸 **Испания** - [Барселона](https://youtu.be/1wQV9eonUvY), Валенсия, Малага | 🇮🇹 **Италия** - [Рим](https://youtube.com/shorts/HM0kfxT6j-8), [Венеция](https://youtu.be/IRNXOziZiqg), Флоренция, [Бари](https://youtube.com/shorts/TWOrMh9CjNE), [Римини](https://youtu.be/6FrHjXIJ_cg), [Болонья](https://youtu.be/Ba-WHkA2kcM), Кортина-д'Ампеццо, Триест, [Палермо](https://youtube.com/shorts/MvPM6nOtbH0), [Катания](https://youtu.be/4cjn8GZuwpY), [Сиракузы](https://youtu.be/biE2EQFm7II), [Трапани](https://youtube.com/shorts/Lt7qA2tFrng) |
 | 🇱🇻 **Латвия** - [Рига](https://youtube.com/shorts/zW9jMVH3c0A) | 🇱🇹 **Литва** - Вильнюс, [Каунас](https://youtube.com/shorts/WzxZahwClIU) |
 | 🇱🇮 **Лихтенштейн** - [Вадуц](https://youtube.com/shorts/PuOqH-0kr1U) | 🇱🇺 **[Люксембург](https://youtube.com/shorts/UGAugMb0FeQ)** |
 | 🇲🇹 **[Мальта](https://youtube.com/shorts/OZs-uAWvM4E)** - Валетта, Слиема, Гзира, Рабат | 🇳🇱 **Нидерланды** - [Амстердам](https://youtube.com/shorts/qTaPMs4AEiY), [Гаага](https://youtube.com/shorts/M-NI8g6Q6R0), [Дельфт](https://youtube.com/shorts/WwYQcTPd99c) |
-| 🇳🇴 **Норвегия** - Осло, Лильхаммер, Тронхейм, Гейрангер  | 🇵🇱 **Польша**         |
-| 🇵🇹 **Португалия** - Лиссабон | 🇷🇺 **Россия** - *100+ городов от Владивостока До Сортавалы* ([Южная и Западная РФ](https://youtube.com/playlist?list=PLaDYMLU12jjsV2jptfS9d8StSwvo7-1EA&si=qIfOqWHTxMZyFtt0), [Восточная и Центральная РФ](https://www.youtube.com/playlist?list=PLaDYMLU12jjt9QoxjpR5i5RjAJs4--DhI)) |
+| 🇳🇴 **Норвегия** - Осло, Лильхаммер, Тронхейм, Гейрангер  | 🇵🇱 **Польша**   |
+| 🇵🇹 **Португалия** - Лиссабон | 🇷🇺 **Россия** - *100+ городов от Владивостока до Сортавалы* ([Южная и Западная РФ](https://youtube.com/playlist?list=PLaDYMLU12jjsV2jptfS9d8StSwvo7-1EA&si=qIfOqWHTxMZyFtt0), [Восточная и Центральная РФ](https://www.youtube.com/playlist?list=PLaDYMLU12jjt9QoxjpR5i5RjAJs4--DhI)) |
 | 🇷🇴 **Румыния** - [Бухарест](https://www.youtube.com/shorts/ZydeqAombNo), [Брашов](https://youtube.com/shorts/WADn7XdxNSI)  | 🇸🇲 **[Сан-Марино](https://youtu.be/2kXkV1BIBn0)** |
 | 🇲🇰 **Северная Македония** - [Охрид](https://youtube.com/shorts/EMKP6nhfji0), Скопье | 🇷🇸 **Сербия** - [Белград](https://youtube.com/shorts/nvR9C1DUjtA), [Нови Сад](https://youtube.com/shorts/Vv8uXzVJ-F0) |
 | 🇸🇰 **Словакия** - [Братислава](https://youtube.com/shorts/HYRxvJQhsHo)   | 🇸🇮 **Словения** - [Любляна](https://youtu.be/SrxGi_frkRM), Марибор |
-| 🇺🇦 **Украина** - Киев  | 🇫🇮 **Финляндия** - Хельсинки, Лаппеэнранта, Савонлинна, Иматра |
-| 🇫🇷 **Франция** - [Париж](https://youtube.com/shorts/0N0yPlB6Ks4), Марсель, [Метц](https://youtube.com/shorts/nULWW8RZ694) | 🇭🇷 **Хорватия** - [Загреб](https://youtu.be/JQu-jSFsrno), [Сплит](https://youtube.com/shorts/8Jbu0MxbJvw), [о.Брач](https://youtube.com/shorts/-Xnd8QeKkVk)  |
+| 🇺🇦 **Украина** - Киев | 🇫🇮 **Финляндия** - Хельсинки, Лаппеэнранта, Савонлинна, Иматра |
+| 🇫🇷 **Франция** - [Париж](https://youtube.com/shorts/0N0yPlB6Ks4), Марсель, [Метц](https://youtube.com/shorts/nULWW8RZ694) | 🇭🇷 **Хорватия** - [Загреб](https://youtu.be/JQu-jSFsrno), [Сплит](https://youtube.com/shorts/8Jbu0MxbJvw), [о.Брач](https://youtube.com/shorts/-Xnd8QeKkVk), [Орлеан](https://youtu.be/-EnyIwhOtvI), [Блуа](https://youtu.be/Z2h4iB4NVjA), [Шамбор](https://youtu.be/w2x55MwcKAk), [Тур](https://youtu.be/OSWT7SM4Xhw), [Амбуаз](https://youtu.be/Luzc0QHtCmY), [Вилландри](https://youtu.be/rtxYgKqv_Pc), [Шенонсо](https://youtu.be/CwbRL49OI1Y), [Анже](https://youtu.be/-IcSF4i40-g), [Нант](https://youtu.be/KgmYYXTGi-Y), [Бордо](https://youtu.be/xelQqOIV_8I), [Сен Эмильон](https://youtu.be/BHK0LvAwRGM), [Ницца](https://youtu.be/D1mLkDyxeeo), [Канны](https://youtu.be/y2yhezLgLjw), [Грас](https://youtu.be/qegHep9SM3E) |
 | 🇲🇪 **Черногория** - Подгорица и все крупные города на набережной ([Котор](https://youtube.com/shorts/yrbAH0lrmn4)) | 🇨🇿 **Чехия** - [Брно](https://youtube.com/shorts/S5rM4NCfEXQ)  |
 | 🇨🇭 **Швейцария** - [Цюрих](https://youtube.com/shorts/J-6JnidY1Uo), [Базель](https://youtube.com/shorts/kEipYrPXiUU), [Вильдхауз](https://youtube.com/shorts/P2QghzEgaL4) | 🇸🇪 **Швеция** - Стокгольм |
-| 🇪🇪 **Эстония** - Таллинн | 🇲🇨 **Монако** |
-| 🇬🇧 **Акротири и Декелия** - Декелия | **Северный Кипр** - Северная Никосия |
+| 🇪🇪 **Эстония** - Таллинн | 🇲🇨 **[Монако](https://youtu.be/kW-pjjMyre4)** |
+| 🇬🇧 **Акротири и Декелия** - [Декелия](https://youtu.be/BJA9G8sietQ) | **Северный Кипр** - Северная Никосия |
 
 ---
 
@@ -75,7 +75,7 @@ permalink: /countries/
 </div>
 
 | **Абхазия** | 🇦🇲 **Армения** - Ереван |
-| 🇬🇪 **Грузия** - Тбилиси, [Кутаиси](https://youtu.be/oHz_mHug3Mk) | 🇹🇷 **Турция** - [Стамбул](https://youtu.be/tujLDNFFRnU), Анталья, Анкара, Аланья, Измир, [Манавгат](https://youtu.be/zHmOR1SLePU) |
+| 🇬🇪 **Грузия** - Тбилиси, [Кутаиси](https://youtu.be/oHz_mHug3Mk) | 🇹🇷 **Турция** - [Стамбул](https://youtu.be/tujLDNFFRnU), Анталья, Анкара, Аланья, Измир, [Манавгат](https://youtu.be/zHmOR1SLePU), [Каш](https://youtu.be/DrbWHgGIyK4), [Фетхие](https://youtu.be/fGjvzbS94aQ) |
 | **Южная Осетия** - [Цхинвал](https://youtu.be/Ae9mLJuxVVA) | |
 
 ---
