@@ -53,6 +53,6 @@ permalink: /about/
 
 <div align="center">
 <h3>Для связи с автором</h3>
-<b>Email по любым вопросам: <a href="mailto:vagabondityblog.garlic252@passmail.net">vagabondityblog.garlic252@passmail.net</a></b><br>
+<b>Email по любым вопросам: <a href="mailto:contact@vagabondity.com">contact@vagabondity.com</a></b><br>
 <b>Мой личный Telegram: <a href="https://t.me/polovinkin">@Polovinkin</a></b>
 </div>
