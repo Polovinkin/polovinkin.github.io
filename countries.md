@@ -6,8 +6,7 @@ permalink: /countries/
 
 <div align="center">
 <h4>Посещенные автором страны мира и основные города<br>
-Кол-во: 77 страны (68 стран ООН)</h4>
-<h5><b>Где сейчас: 🇷🇺 Санкт-Петербург </b></h5>
+Кол-во: 79 страны (70 стран ООН)</h4>
 </div>
 
 ---
@@ -86,10 +85,10 @@ permalink: /countries/
 
 | 🇻🇳 **Вьетнам** - [Ханой](https://youtu.be/7TyzQkGWBAY), [Дананг](https://youtu.be/zsOP6V0cHH0), [Хюэ](https://youtu.be/dXp024JWF9A), [Хойан](https://youtu.be/vlutsVC89XY), [Нинбин](https://youtu.be/lsyMFaE_CVk) | 🇭🇰 **[Гонконг](https://youtu.be/wUWlAWFCq4A)** |
 | 🇮🇩 **Индонезия** - [Бали](https://youtu.be/4t1NUfCZgto) | 🇰🇭 **Камбоджа** - [Сиемреап](https://youtu.be/Yr_o5rgxwHs) ([Ангкор](https://youtu.be/kA0-CTipZfE)) | 
-| 🇨🇳 **Китай** - [Шанхай](https://youtu.be/MMklfJpGXzA), [Харбин](https://youtu.be/zkLri0LQCG4)                      | 🇱🇦 **Лаос** - [Вьетьян](https://youtu.be/rTL0KAEiNTA), [Ванг Вьенг](https://youtu.be/lqpRqGfqQgs), [Луанг Прабанг](https://youtu.be/Uq9tEHDRWI4) |
+| 🇨🇳 **Китай** - [Шанхай](https://youtu.be/MMklfJpGXzA), [Харбин](https://youtu.be/zkLri0LQCG4), [Пекин](https://youtu.be/VPvo_50AP3g) | 🇱🇦 **Лаос** - [Вьетьян](https://youtu.be/rTL0KAEiNTA), [Ванг Вьенг](https://youtu.be/lqpRqGfqQgs), [Луанг Прабанг](https://youtu.be/Uq9tEHDRWI4) |
 | 🇲🇴 **[Макао](https://youtu.be/x1Dlmp_jeI8)** | 🇲🇾 **Малайзия** - [Куала-Лумпур](https://youtu.be/VM66tgxsmOA), [Малакка](https://youtu.be/coSoUcKzdgg) |
 | 🇸🇬 **[Сингапур](https://youtu.be/IVVYd3KrzgE)** | 🇹🇭 **Таиланд** - [Пхукет](https://youtu.be/vlutsVC89XY), [Бангкок](https://youtu.be/KP_9O_mwDyA), [Паттайя](https://youtu.be/VORUlI_hzSc), [Ко Лан](https://youtu.be/pq6Mteb-VQM), [Удонтхани](https://youtu.be/Gd6SZuo5q_0), [Пхи-Пхи](https://youtu.be/DopckiNU1NU) |
-| 🇰🇷 **Южная Корея** - [Сеул](https://youtu.be/IGOOa7oMFA8), [Пусан](https://youtu.be/leIgKk24F-Q), Тэгу | |
+| 🇰🇷 **Южная Корея** - [Сеул](https://youtu.be/IGOOa7oMFA8), [Пусан](https://youtu.be/leIgKk24F-Q), Тэгу | 🇯🇵 **Япония** - [Токио](https://youtu.be/x6UHRkVFkMU?), [Фудзикавагучико](https://youtu.be/X6CeQzwql6w), [Йокогама](https://youtu.be/mwqrjr_AgKU), Кофу, [Мацумото](https://youtube.com/shorts/GlkrwbL5ZP8), [Tateyama Kurobe Alpine Route](https://youtube.com/shorts/qUVjyI8_o0I) ,[Канадзава](https://youtu.be/v6p1pWaNwp8), [Осака](https://youtu.be/JCV6y5TpWNI), [Киото](https://youtu.be/Ykp9QO73ePQ), [Нара](https://youtu.be/gbU70AItBKc), [Удзи](https://youtu.be/LRf1IqnqCTE) |
 
 ---
 
@@ -109,6 +108,7 @@ permalink: /countries/
 
 | 🇰🇿 **Казахстан** - [Алматы](https://youtu.be/QpZS9t63m58) | 🇰🇬 **Киргизия** - [Бишкек](https://youtu.be/-wgb39DpdiM) |
 | 🇹🇯 **Таджикистан** - [Душанбе](https://youtu.be/8DkO-zlzXt8) | 🇺🇿 **Узбекистан** - [Ташкент](https://youtu.be/UJgBniTjx0I), [Самарканд](https://youtu.be/SFLEzGFI0eg) |
+| 🇲🇳 **Монголия** - [Улан-Батор](https://youtu.be/AGxLBnd3j1w) | |
 
 
 <!-- Генератор карты посещенных стран-->
